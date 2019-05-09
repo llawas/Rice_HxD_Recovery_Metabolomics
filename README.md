@@ -5,7 +5,7 @@ Experimental design: three-year field experiment;
 three rice cultivars with different tolerance to drought and heat stress used; 
 combined drought and heat stress imposed at either the flowering or early grain-filling stage; 
 flag leaves, flowering spikelets, and developing seeds collected from control and combined drought and heat stress treatments; 
-samples collected at different time points (controls, late stress, 12 h after rewatering, 36 h after rewatering, 60 h after rewatering)
+samples collected at different time points (controls, severe (late) stress, 12 h after rewatering, 36 h after rewatering, 60 h after rewatering)
 
 This workflow focuses on the analysis of samples collected during the recovery (rewatering) period.
 
