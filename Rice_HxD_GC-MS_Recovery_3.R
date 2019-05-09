@@ -1,4 +1,5 @@
 #load required packages and functions
+#NOTE: Refer to "Rice_HxD_Metabolomics" repository for the functions
 library(VennDiagram)
 library(grid)
 library(RColorBrewer)
